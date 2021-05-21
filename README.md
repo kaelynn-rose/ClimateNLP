@@ -1,6 +1,6 @@
 # Climate NLP
 
-Climate change has emerged as a major topic in the past few dec
+
 
 
 ## Data
