@@ -1,6 +1,6 @@
 # Climate NLP
 
-
+## Introduction
 
 
 ## Data
@@ -23,3 +23,14 @@ The CNN, Fox News, and MSNBC clips are from 2009-2020, and the BBC News clips ar
 * IAShowID (unique ID for each show with date and time of broadcast)
 * IAPreviewThumb (thumbnail clip from the television program)
 * Snippet (15 second clips, each containing a climate phrase mention)
+
+## Data Cleaning
+
+
+## NLP 
+
+
+## Modeling
+
+
+## Conclusions
