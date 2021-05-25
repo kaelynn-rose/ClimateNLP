@@ -18,7 +18,7 @@ The CNN, Fox News, and MSNBC clips are from 2009-2020, and the BBC News clips ar
 
 * URL (URL to the Archive's website to view the specific clip)
 * MatchDateTime (the exact date and time of the mention)
-* Station 
+* Station name
 * Show (which show on the station the phrase was mentioned during)
 * IAShowID (unique ID for each show with date and time of broadcast)
 * IAPreviewThumb (thumbnail clip from the television program)
