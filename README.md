@@ -1,4 +1,4 @@
-# Climate NLP
+# Exploring Climate Change Topics over Time with NLP & Machine Learning
 
 ## Introduction
 
